@@ -10,7 +10,7 @@
 
 ---
 
-StellaPlayer is a lightweight video player application designed for simplicity and power. By acting as a specialized wrapper for **VLC**, it brings world-class decoding capabilities into a modern, simplified standalone executable.
+StellaVideo is a lightweight video player application designed for simplicity and power. By acting as a specialized wrapper for **VLC**, it brings world-class decoding capabilities into a modern, simplified standalone executable.
 
 ## 🚀 Features
 - **Standalone Executable:** No complex installation or setup wizards. Just click the `.exe` and play.
@@ -19,12 +19,12 @@ StellaPlayer is a lightweight video player application designed for simplicity a
 - **Fully Portable:** Carry your player on a USB drive; it runs without needing local installation.
 
 ## 🛠 Installation
-1. Download the latest version of `StellaPlayer.exe`.
+1. Download the latest version of `StellaVideo.exe`.
 2. Move the file to your preferred directory.
 3. Double-click the application to launch it instantly.
 
 ## 📖 Usage
-See StellaPlayer in action:
+See StellaVideo in action:
 
 <p align="center">
   <img src="resources/gif0.gif" alt="StellaPlayer Usage Demo" width="600">
