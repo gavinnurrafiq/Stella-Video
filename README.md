@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="StellaVideo" width="220" />
+  <img src="resources/logo.png" alt="StellaVideo" width="220" />
 
   # StellaVideo
 

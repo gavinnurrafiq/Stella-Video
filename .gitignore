@@ -11,3 +11,12 @@ __pycache__/
 # Local virtualenv
 .venv/
 *.env
+
+# Image / media assets — keep them local for building the exe, but don't
+# expose them in the repo. The resources/ folder is intentionally allowed
+# so the README can render a logo.
+*.png
+*.ico
+*.mp4
+!resources/*.png
+!resources/*.gif
