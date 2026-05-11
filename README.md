@@ -1,4 +1,4 @@
-# <img src="StellaVideo/resources/logo.png" align="center" width="60" height="60"> StellaPlayer
+# <img src="resources/logo.png" align="center" width="60" height="60"> StellaPlayer
 
 StellaPlayer is a lightweight, high-performance video player application. It serves as a streamlined wrapper for **VLC**, bringing the robust decoding capabilities of the VLC media player into a modern, simplified standalone executable.
 
@@ -19,4 +19,4 @@ For more information about this project, my other work, or if you would like to 
 - **Personal Website & Donation:** [https://aboutme.gavinnurrafiq33.workers.dev/](https://aboutme.gavinnurrafiq33.workers.dev/)
 
 ---
-*Developed by Gavin NurRafiq.*
+*Developed by Gavin Nurrafiq.*
