@@ -1,0 +1,13 @@
+# Source code & build configs (hidden from public repo)
+*.py
+*.spec
+
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Local virtualenv
+.venv/
+*.env
