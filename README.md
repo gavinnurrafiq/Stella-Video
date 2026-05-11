@@ -2,7 +2,7 @@
   <img src="resources/logo.png" alt="StellaPlayer Logo" width="200">
 </p>
 
-<h1 align="center">StellaPlayer</h1>
+<h1 align="center">StellaVideo</h1>
 
 <p align="center">
   <strong>A streamlined, high-performance VLC wrapper for modern desktop experiences.</strong>
