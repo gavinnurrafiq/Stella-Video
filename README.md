@@ -18,10 +18,17 @@ StellaPlayer is a lightweight video player application designed for simplicity a
 - **Minimalist Design:** A clean interface that stays out of your way, focusing entirely on your media.
 - **Fully Portable:** Carry your player on a USB drive; it runs without needing local installation.
 
-## 🛠 Installation & Usage
+## 🛠 Installation
 1. Download the latest version of `StellaPlayer.exe`.
 2. Move the file to your preferred directory.
 3. Double-click the application to launch it instantly.
+
+## 📖 Usage
+See StellaPlayer in action:
+
+<p align="center">
+  <img src="resources/gif0.gif" alt="StellaPlayer Usage Demo" width="600">
+</p>
 
 ## 🔗 Links & Support
 For more details about my projects or if you wish to support my work through a donation, please visit:
@@ -29,4 +36,4 @@ For more details about my projects or if you wish to support my work through a d
 - **Personal Website & Donation:** [https://aboutme.gavinnurrafiq33.workers.dev/](https://aboutme.gavinnurrafiq33.workers.dev/)
 
 ---
-*Developed by Gavin Nur Rafiq.*
+*Developed by Gavin Nurrafiq.*
