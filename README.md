@@ -26,10 +26,6 @@ StellaVideo is a lightweight video player application designed for simplicity an
 ## 📖 Usage
 See StellaVideo in action:
 
-<p align="center">
-  <img src="resources/gif0.gif" alt="StellaPlayer Usage Demo" width="600">
-</p>
-
 ## 🔗 Links & Support
 For more details about my projects or if you wish to support my work through a donation, please visit:
 
