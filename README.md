@@ -8,7 +8,6 @@ A libmpv-powered desktop media player built with PySide6. Frame-accurate
 seeking, animated UI, scrubbing thumbnails, and a backdrop that adapts
 to whatever is on screen.
 
-![Stella Video logo](stella_video/assets/logo.png)
 
 ---
 
